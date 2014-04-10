@@ -11,6 +11,7 @@ class Home extends Admin_Controller
 
     public function index()
     {
+        Template::redirect(SITE_AREA.'/content');
         Template::render();
     }//end index()
 

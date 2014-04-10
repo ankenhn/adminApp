@@ -8,7 +8,9 @@
 
 echo theme_view('header'); ?>
 
-<?php echo Template::content(); ?>
+    <div class="page-content">
+        <?php echo Template::content(); ?>
+    </div>
 
 <?php echo Assets::js(array(
     'js/jquery-1.9.1.js',

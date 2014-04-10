@@ -57,19 +57,6 @@ $(function () {
 
     });
 
-    // Begin Change Color Theme
-    var setColorTheme = function (color) {
-        $.cookie('#color-style', color);
-        $('#color-style').attr('href', 'css/themes/' + color + '.css');
-    }
-    $('ul.color-theme > li').click(function () {
-        var color = $(this).attr('data-style');
-        setColorTheme(color);
-    });
-    if ($.cookie('#color-style')) {
-        setColorTheme($.cookie('#color-style'));
-    }
-    // End Change Color Theme
 
     // Begin Change Style
     $('#change-style').change(function () {

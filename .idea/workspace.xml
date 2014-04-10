@@ -2,670 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0b9614-5f5e-4199-a9d9-4eeb7f5146df" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\application\config\extended_settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\_codeigniter_license.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Benchmark.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\CodeIgniter.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Common.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Exceptions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Input.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Loader.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Output.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Router.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Security.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\URI.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\Utf8.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\core\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_active_rec.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_cache.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\DB_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\cubrid\cubrid_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\cubrid\cubrid_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\cubrid\cubrid_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\cubrid\cubrid_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\cubrid\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mongodb\mongodb_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mongodb\mongodb_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mongodb\mongodb_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mongodb\mongodb_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mssql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mssql\mssql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mssql\mssql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mssql\mssql_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mssql\mssql_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysql\mysql_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysql\mysql_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysql\mysql_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysqli\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysqli\mysqli_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysqli\mysqli_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysqli\mysqli_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\mysqli\mysqli_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\oci8\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\oci8\oci8_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\oci8\oci8_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\oci8\oci8_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\oci8\oci8_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\odbc\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\odbc\odbc_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\odbc\odbc_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\odbc\odbc_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\odbc\odbc_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\pdo\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\pdo\pdo_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\pdo\pdo_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\pdo\pdo_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\pdo\pdo_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\postgre\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\postgre\postgre_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\postgre\postgre_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\postgre\postgre_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\postgre\postgre_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlite\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlite\sqlite_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlite\sqlite_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlite\sqlite_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlite\sqlite_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlsrv\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlsrv\sqlsrv_driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlsrv\sqlsrv_forge.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlsrv\sqlsrv_result.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\drivers\sqlsrv\sqlsrv_utility.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\database\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\fonts\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\fonts\texb.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\array_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\captcha_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\cookie_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\date_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\directory_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\download_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\email_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\file_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\form_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\html_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\inflector_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\language_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\number_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\path_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\security_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\smiley_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\string_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\text_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\typography_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\url_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\helpers\xml_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\migration_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\english\upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\persian\validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese\upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\portuguese_br\upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\calendar_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\date_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\db_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\email_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\form_validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\ftp_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\imglib_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\migration_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\number_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\profiler_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\unit_test_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\upload_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\language\spanish_am\validation_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cache\Cache.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cache\drivers\Cache_apc.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cache\drivers\Cache_dummy.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cache\drivers\Cache_file.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cache\drivers\Cache_memcached.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Calendar.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Cart.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Driver.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Email.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Encrypt.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Form_validation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Ftp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Image_lib.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Javascript.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Log.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Migration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Pagination.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Parser.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Profiler.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Session.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Sha1.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Trackback.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Typography.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Unit_test.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Upload.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\User_agent.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Xmlrpc.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Xmlrpcs.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\Zip.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\libraries\javascript\Jquery.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\codeigniter\views\profiler_template.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\controllers\images.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\controllers\install.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\core\BF_Lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\core\BF_Model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\core\BF_Security.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\core\Loader.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\core\Router.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\_toc.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\bonfire_controllers.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\bonfire_models.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\changing_the_admin_URL.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\codeIgniter_modifications.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\coding_conventions.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\contexts.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\getting_started_with_bonfire.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\global_helpers.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\how_to_contribute.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\installation.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\issue_tracking_and_pull_requests.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\keyboard_shortcuts.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\layouts_and_views.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\performance_tips.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\removing_index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\roles_and_permissions.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\routes.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\site_structure.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\system_events.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\template_parser.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\tut_blog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\working_with_assets.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\docs\writing_docs.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\BF_array_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\BF_date_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\BF_file_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\BF_form_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\address_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\application_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\config_file_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\markdown_extended_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\helpers\markdown_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\BF_Cache_file.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\BF_Form_validation.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\CSSMin.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\Console.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\Curl.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\JSMin.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\Modules.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\Route.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\assets.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\events.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\installer_lib.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\libraries\template.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\001_Install_initial_tables.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\002_Version_02_upgrades.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\003_Permission_system_upgrade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\004_Add_login_destination.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\005_Add_role_delete_permissions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\006_Country_state_upgrade.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\007_Add_permission_descriptions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\008_Remove_old_permissions_table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\009_Add_module_permissions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\010_Permissions_to_manage_role_permissions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\011_Permissions_to_manage_activities.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\012_Migration_schema_change.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\013_Move_settings_into_db.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\014_Role_login_destination_change.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\015_Adding_mailtype_setting.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\016_Keyboard_shortcut_permissions.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\017_Banning_users.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\018_User_meta_move.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\019_User_timezones.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\020_Password_strength_settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\021_Restructure_keyboard_shortcut_settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\022_User_language.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\023_Modify_schema_version_type.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\024_Remove_old_schema_table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\025_User_activations.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\026_Permission_to_manage_settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\027_Permissions_for_core_modules.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\028_Permissions_for_profiler.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\029_Update_session_table.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\030_Password_ui_labels_option.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\031_Permission_bonfire_roles_add.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\032_Update_session_ip_address.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\033_Role_default_context_setting.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\034_Rename_modulebuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\035_Banning_users_fix.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\036_Converting_auth_to_phpass.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\037_Removing_update_perms.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\038_Remove_user_password_iterations.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\039_Adding_attachments_to_emailer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\migrations\040_Remove_updates_settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\assets\css\datatables.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\controllers\activities.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\controllers\reports.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\english\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\french\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\italian\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\persian\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\portuguese\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\portuguese_br\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\language\spanish_am\activities_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\models\activity_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\views\activity_list.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\views\reports\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\views\reports\activities_js.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\views\reports\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\activities\views\reports\view.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\assets\css\builder.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\assets\js\modulebuilder.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\config\modulebuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\english\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\french\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\italian\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\persian\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\portuguese_br\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\language\spanish_am\builder_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\libraries\modulebuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\create_context.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\modulebuilder_form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\output.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\developer\sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\acl_migration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\controller.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\db_migration.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\languages\english.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\languages\italian.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\languages\portuguese_br.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\languages\spanish_am.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\view_default.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\view_index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\view_index_front.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\view_js.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\builder\views\files\view_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\english\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\italian\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\persian\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\portuguese\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\portuguese_br\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\language\spanish_am\database_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\backup.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\backups.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\browse.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\delete.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\drop.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\menu.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\database\views\developer\restore.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\config\docs.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\config\routes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\controllers\docs.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\language\english\docs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\language\italian\docs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\libraries\docsearch.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\views\_sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\views\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\docs\views\search.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\assets\js\settings.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\controllers\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\english\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\italian\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\persian\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\portuguese\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\portuguese_br\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\language\spanish_am\emailer_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\libraries\emailer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\models\emailer_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\email\_footer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\email\_header.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\create.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\emails.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\menu.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\preview.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\queue.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\template.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\emailer\views\settings\test.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\assets\css\logs.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\assets\js\logs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\english\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\italian\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\persian\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\portuguese\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\portuguese_br\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\language\spanish_am\logs_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\views\developer\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\views\developer\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\logs\views\developer\view.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\assets\css\migrations.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\english\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\italian\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\persian\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\portuguese\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\portuguese_br\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\language\spanish_am\migrations_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\libraries\Migrations.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\migrations\views\developer\migrate_to.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\controllers\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\language\english\permissions_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\language\italian\permissions_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\language\persian\permissions_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\language\portuguese_br\permissions_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\language\spanish_am\permissions_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\models\permission_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\views\settings\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\views\settings\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\permissions\views\settings\permission_form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\assets\css\settings.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\assets\js\jquery.tablehover.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\assets\js\settings.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\controllers\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\english\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\italian\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\persian\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\portuguese\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\portuguese_br\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\language\spanish_am\roles_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\models\role_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\models\role_permission_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\views\settings\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\views\settings\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\views\settings\matrix.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\views\settings\permission_matrix.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\roles\views\settings\role_form.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\assets\js\settings.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\controllers\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\docs\developer\extended_settings.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\docs\developer\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\docs\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\language\english\settings_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\language\italian\settings_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\language\persian\settings_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\language\portuguese_br\settings_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\language\spanish_am\settings_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\libraries\settings_lib.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\models\settings_model.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\settings\views\settings\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\language\english\sysinfo_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\language\italian\sysinfo_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\language\persian\sysinfo_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\language\portuguese_br\sysinfo_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\language\spanish_am\sysinfo_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\views\developer\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\views\developer\modules.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\sysinfo\views\developer\php_info.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\assets\css\translate.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\assets\js\translate.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\config\langcodes.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\controllers\developer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\helpers\languages_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\english\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\french\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\italian\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\persian\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\portuguese_br\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\russian\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\language\spanish_am\translate_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\libraries\translate_lib.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\views\developer\_sub_nav.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\views\developer\edit.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\views\developer\export.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\translate\views\developer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\config\config.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\controllers\settings.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\helpers\ui_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\language\english\ui_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\language\italian\ui_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\language\persian\ui_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\language\portuguese_br\ui_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\language\spanish_am\ui_lang.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\libraries\contexts.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\views\settings\index.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\ui\views\shortcut_keys.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\blank.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap-dataTables.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap-datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\Sorting icons.psd" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\back_disabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\back_enabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\forward_disabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\forward_enabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\datatable_images\sort_desc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_flat_0_eeeeee_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_flat_55_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_highlight-soft_100_f6f6f6_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_highlight-soft_25_0073ea_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-bg_highlight-soft_50_dddddd_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-icons_0073ea_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-icons_666666_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-icons_ff0084_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\images\ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\flick\jquery-ui-1.8.13.custom.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\jquery-ui-timepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\css\jqueryui.bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\activity-user.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\bg-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\bg_fabric_dark.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\body_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\brush.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\context_content.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\context_developer.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\context_reports.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\context_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\customers.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\database.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\Sorting icons.psd" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\back_disabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\back_enabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\forward_disabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\forward_enabled.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\datatables_images\sort_desc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\glyphicons-halflings-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\issue.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\keyboard-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\logout.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\minus.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\page.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\plus.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\product.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_glass_75_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\ui-icons_f6cf3b_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\images\user.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\bootstrap-dataTables.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\bootstrap-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\editors\xinha_conf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery-1.7.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery-ui-1.8.13.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery-ui-timepicker-addon.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery.dataTables.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\jwerty.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\mobile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\modernizr-2.5.3.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\mobile__footer.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\mobile__header.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\screen-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\screen.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\two_left.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/Admin_Controller.php" afterPath="$PROJECT_DIR$/application/core/Admin_Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/hooks/App_hooks.php" afterPath="$PROJECT_DIR$/application/hooks/App_hooks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/core/Base_Controller.php" afterPath="$PROJECT_DIR$/application/core/Base_Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/application.php" afterPath="$PROJECT_DIR$/application/config/application.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\001_Install_initial_tables.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\002_Version_02_upgrades.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\003_Permission_system_upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\004_Add_login_destination.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\005_Add_role_delete_permissions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\006_Country_state_upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\007_Add_permission_descriptions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\008_Remove_old_permissions_table.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\009_Add_module_permissions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\010_Permissions_to_manage_role_permissions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\011_Permissions_to_manage_activities.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\012_Migration_schema_change.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\013_Move_settings_into_db.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\014_Role_login_destination_change.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\015_Adding_mailtype_setting.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\016_Keyboard_shortcut_permissions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\017_Banning_users.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\018_User_meta_move.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\019_User_timezones.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\020_Password_strength_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\021_Restructure_keyboard_shortcut_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\022_User_language.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\023_Modify_schema_version_type.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\024_Remove_old_schema_table.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\025_User_activations.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\026_Permission_to_manage_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\027_Permissions_for_core_modules.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\028_Permissions_for_profiler.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\029_Update_session_table.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\030_Password_ui_labels_option.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\031_Permission_bonfire_roles_add.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\032_Update_session_ip_address.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\033_Role_default_context_setting.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\034_Rename_modulebuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\035_Banning_users_fix.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\036_Converting_auth_to_phpass.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\037_Removing_update_perms.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\038_Remove_user_password_iterations.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\039_Adding_attachments_to_emailer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\monster\migrations\040_Remove_updates_settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\admin\themes\admin\js\index.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/codeigniter/core/Input.php" afterPath="$PROJECT_DIR$/monster/codeigniter/core/Input.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/footer.php" afterPath="$PROJECT_DIR$/themes/admin/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/header.php" afterPath="$PROJECT_DIR$/themes/admin/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/home.php" afterPath="$PROJECT_DIR$/application/controllers/home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/admin/home.php" afterPath="$PROJECT_DIR$/application/controllers/admin/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/hooks.php" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/admin/content/index.php" afterPath="$PROJECT_DIR$/application/views/admin/content/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/admin/home/index.php" afterPath="$PROJECT_DIR$/application/views/admin/home/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/home/index.php" afterPath="$PROJECT_DIR$/application/views/home/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/index.php" afterPath="$PROJECT_DIR$/themes/admin/index.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\assets\js\jquery.strength.js" afterPath="$PROJECT_DIR$/modules/users/assets/js/jquery.strength.js" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\assets\js\password_strength.js" afterPath="$PROJECT_DIR$/modules/users/assets/js/password_strength.js" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\config\config.php" afterPath="$PROJECT_DIR$/modules/users/config/config.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\controllers\settings.php" afterPath="$PROJECT_DIR$/modules/users/controllers/settings.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\controllers\users.php" afterPath="$PROJECT_DIR$/modules/users/controllers/users.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\english\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/english/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\italian\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/italian/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\persian\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/persian/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\portuguese\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/portuguese/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\portuguese_br\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/portuguese_br/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\language\spanish_am\users_lang.php" afterPath="$PROJECT_DIR$/modules/users/language/spanish_am/users_lang.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\libraries\PasswordHash.php" afterPath="$PROJECT_DIR$/modules/users/libraries/PasswordHash.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\libraries\auth.php" afterPath="$PROJECT_DIR$/modules/users/libraries/auth.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\models\user_model.php" afterPath="$PROJECT_DIR$/modules/users/models/user_model.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\activate.php" afterPath="$PROJECT_DIR$/modules/users/views/activate.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\country_state_js.php" afterPath="$PROJECT_DIR$/modules/users/views/country_state_js.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\forgot_password.php" afterPath="$PROJECT_DIR$/modules/users/views/forgot_password.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\login.php" afterPath="$PROJECT_DIR$/modules/users/views/login.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\profile.php" afterPath="$PROJECT_DIR$/modules/users/views/profile.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\register.php" afterPath="$PROJECT_DIR$/modules/users/views/register.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\resend_activation.php" afterPath="$PROJECT_DIR$/modules/users/views/resend_activation.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\reset_password.php" afterPath="$PROJECT_DIR$/modules/users/views/reset_password.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\settings\_sub_nav.php" afterPath="$PROJECT_DIR$/modules/users/views/settings/_sub_nav.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\settings\access_logs.php" afterPath="$PROJECT_DIR$/modules/users/views/settings/access_logs.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\settings\index.php" afterPath="$PROJECT_DIR$/modules/users/views/settings/index.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\settings\user_form.php" afterPath="$PROJECT_DIR$/modules/users/views/settings/user_form.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\user_fields.php" afterPath="$PROJECT_DIR$/modules/users/views/user_fields.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\user_meta.php" afterPath="$PROJECT_DIR$/modules/users/views/user_meta.php" />
-      <change type="MOVED" beforePath="D:\xampp\htdocs\admin\bonfire\modules\users\views\users_js.php" afterPath="$PROJECT_DIR$/modules/users/views/users_js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/plugin/slimScroll/jquery.slimscroll.js" afterPath="$PROJECT_DIR$/themes/admin/plugin/slimScroll/jquery.slimscroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/js/main.js" afterPath="$PROJECT_DIR$/themes/admin/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="admin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -688,29 +76,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/content/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="367" selection-end="367" vertical-scroll-proportion="0.4686907" vertical-offset="25" max-vertical-offset="578">
+            <state line="9" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.5769231" vertical-offset="60" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/admin/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="10" selection-start="938" selection-end="938" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="510">
-              <folding />
+            <state line="311" column="10" selection-start="19156" selection-end="19156" vertical-scroll-proportion="0.9384058" vertical-offset="4769" max-vertical-offset="5389">
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/odin/index.html">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/admin/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="790" column="43" selection-start="56187" selection-end="56196" vertical-scroll-proportion="-6.1923075" vertical-offset="13269" max-vertical-offset="14331">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding>
+                <marker date="1397126868816" expanded="true" signature="37:160" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -733,29 +138,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/modules/users/controllers/settings.php" />
-        <option value="$PROJECT_DIR$/application/hooks/App_hooks.php" />
-        <option value="$PROJECT_DIR$/application/core/Admin_Controller.php" />
         <option value="$PROJECT_DIR$/modules/users/libraries/auth.php" />
         <option value="$PROJECT_DIR$/application/config/hooks.php" />
         <option value="$PROJECT_DIR$/application/core/Base_Controller.php" />
         <option value="$PROJECT_DIR$/application/controllers/home.php" />
-        <option value="$PROJECT_DIR$/themes/admin/footer.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/content/index.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/home/index.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/home.php" />
-        <option value="$PROJECT_DIR$/application/views/home/index.php" />
         <option value="$PROJECT_DIR$/themes/admin/plugin/font-awesome/font-awesome.css" />
         <option value="$PROJECT_DIR$/themes/admin/plugin/font-awesome/font-awesome.min.css" />
-        <option value="$PROJECT_DIR$/themes/admin/header.php" />
+        <option value="$PROJECT_DIR$/application/views/home/index.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/home.php" />
+        <option value="$PROJECT_DIR$/themes/admin/js/main.js" />
+        <option value="$PROJECT_DIR$/monster/codeigniter/core/Input.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/home/index.php" />
+        <option value="$PROJECT_DIR$/themes/admin/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/content/index.php" />
         <option value="$PROJECT_DIR$/themes/admin/index.php" />
+        <option value="$PROJECT_DIR$/themes/admin/header.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="826" />
-    <option name="y" value="257" />
+    <option name="x" value="139" />
+    <option name="y" value="45" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
@@ -817,8 +222,22 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="odin" />
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -832,7 +251,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -899,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="826" y="257" width="1932" height="1056" extended-state="0" />
+    <frame x="139" y="45" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -934,90 +353,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="13" selection-start="1449" selection-end="1449" vertical-scroll-proportion="133.07692" vertical-offset="4361" max-vertical-offset="4913">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/admin/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/odin/ui-buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1137" column="6" selection-start="1604" selection-end="83049" vertical-scroll-proportion="0.2789855" vertical-offset="305" max-vertical-offset="1156">
-          <folding>
-            <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="552">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/reports/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="185" selection-end="185" vertical-scroll-proportion="0.18478261" vertical-offset="0" max-vertical-offset="552">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="36" selection-start="1076" selection-end="1082" vertical-scroll-proportion="-10.0" vertical-offset="420" max-vertical-offset="1870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/content/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="86" selection-start="762" selection-end="762" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="18989">
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1111" column="6" selection-start="58769" selection-end="58769" vertical-scroll-proportion="-726.4231" vertical-offset="0" max-vertical-offset="18989">
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/home/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="92" selection-start="675" selection-end="675" vertical-scroll-proportion="0.307971" vertical-offset="0" max-vertical-offset="18989">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/admin/plugin/font-awesome/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="95" selection-start="257" selection-end="257" vertical-scroll-proportion="0.09922179" vertical-offset="0" max-vertical-offset="514">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/admin/plugin/font-awesome/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="849" selection-end="849" vertical-scroll-proportion="0.6318584" vertical-offset="0" max-vertical-offset="22848">
@@ -1046,17 +381,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/admin/header.php">
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="938" selection-end="938" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="510">
+        <state line="293" column="33" selection-start="10277" selection-end="10281" vertical-scroll-proportion="-0.43137255" vertical-offset="4959" max-vertical-offset="6307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="5" selection-start="255" selection-end="255" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monster/codeigniter/core/Input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="728" column="31" selection-start="15726" selection-end="15726" vertical-scroll-proportion="-4.098039" vertical-offset="12167" max-vertical-offset="14518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/odin/charts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="31" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.5326087" vertical-offset="182" max-vertical-offset="7548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="9" selection-start="799" selection-end="799" vertical-scroll-proportion="-9.4" vertical-offset="156" max-vertical-offset="3825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="306" column="0" selection-start="0" selection-end="19931" vertical-scroll-proportion="-5.6666665" vertical-offset="4777" max-vertical-offset="5304">
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="314" column="6" selection-start="19999" selection-end="19999" vertical-scroll-proportion="-19.923077" vertical-offset="4820" max-vertical-offset="5440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding>
+            <marker date="1397126868816" expanded="true" signature="37:160" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="367" selection-end="367" vertical-scroll-proportion="0.4686907" vertical-offset="25" max-vertical-offset="578">
+        <state line="9" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.5769231" vertical-offset="60" max-vertical-offset="612">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="311" column="10" selection-start="19156" selection-end="19156" vertical-scroll-proportion="0.9384058" vertical-offset="4769" max-vertical-offset="5389">
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
