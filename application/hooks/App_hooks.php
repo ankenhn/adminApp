@@ -167,48 +167,4 @@ class App_hooks
 		}
 	}//end save_requested()
 
-	//--------------------------------------------------------------------
-
-
-	/**
-	 * Check the online/offline status of the site.
-	 *
-	 * Called by the "post_controller_constructor" hook.
-	 *
-	 * @access public
-	 *
-	 * @return void
-	 *
-	 */
-	public function check_site_status()
-	{
-        // If we're not yet installed, don't do anything.
-        if ( ! file_exists(APPPATH .'config/installed.txt'))
-        {
-            return null;
-        }
-
-        // If the settings lib is not available, try to load it.
-        if ( ! isset($this->ci->settings_lib))
-        {
-            $this->ci->load->library('settings/settings_lib');
-        }
-
-		if ($this->ci->settings_lib->item('site.status') == 0)
-		{
-			if (!class_exists('Auth'))
-			{
-				$this->ci->load->library('users/auth');
-			}
-
-			if (!$this->ci->auth->has_permission('Site.Signin.Offline'))
-			{
-				include (APPPATH .'errors/offline'. EXT);
-				die();
-			}
-		}
-	}//end check_site_status()
-
-	//--------------------------------------------------------------------
-
 }//end class

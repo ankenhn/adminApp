@@ -82,7 +82,7 @@ if (ini_get('date.timezone') == ''
  * will be set accordingly.
  */
 $path = "";
-$bonfire_path = "bonfire";
+$monster_path = "monster";
 
 /*
  *---------------------------------------------------------------
@@ -94,7 +94,7 @@ $bonfire_path = "bonfire";
  * as this file.
  *
  */
-$system_path = "bonfire/codeigniter";
+$system_path = $monster_path."/codeigniter";
 
 /*
  *---------------------------------------------------------------
@@ -246,7 +246,7 @@ define('FCPATH', str_replace(SELF, '', __FILE__));
 define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));
 
 // Bonfire Path
-define('BFPATH', $bonfire_path . '/');
+define('BFPATH', $monster_path . '/');
 
 // The path to the "application" folder
 if (is_dir($application_folder)) {

@@ -61,18 +61,13 @@ class Base_Controller extends CI_Controller
      * @var array
      */
     protected $autoload = array(
-        'libraries' => array('settings/settings_lib'),
+        'libraries' => array(),
         'helpers'   => array(),
         'models'    => array()
     );
 
 	//--------------------------------------------------------------------
 
-	/**
-	 * Class constructor
-	 *
-	 * @return void
-	 */
 	public function __construct()
 	{
 		parent::__construct();
@@ -82,14 +77,7 @@ class Base_Controller extends CI_Controller
         if (isset($_SESSION['requested_page']) && class_exists('CI_Session')) {
             $this->session->set_userdata(array('requested_page' => $_SESSION['requested_page']));
         }
-
-		$this->load->library('events');
-
-
-		// Handle any autoloading here...
 		$this->autoload_classes();
-
-		Events::trigger('before_controller', get_class($this));
 
         if ($this->require_authentication === true) {
             $this->authenticate();
@@ -98,48 +86,6 @@ class Base_Controller extends CI_Controller
 		// Load the lang file here, after the user's language is known
 		$this->lang->load('application');
 
-		
-		// Performance optimizations for production environments.
-		if (ENVIRONMENT == 'production') {
-			// Saving queries can vastly increase the memory usage
-		    $this->db->save_queries = false;
-
-		    // With debugging information turned off, at times it is possible to
-		    // continue on after db errors. Also turns off display of any DB
-		    // errors to reduce info available to hackers.
-		    $this->db->db_debug = false;
-
-		    $this->load->driver('cache', array('adapter' => 'apc', 'backup' => 'file'));
-		}
-		// Testing niceties...
-		elseif (ENVIRONMENT == 'testing') {
-			// Saving Queries can vastly increase the memory usage
-			$this->db->save_queries = false;
-
-			$this->load->driver('cache', array('adapter' => 'apc', 'backup' => 'file'));
-		}
-		// Development niceties...
-		else {
-			// Profiler bar?
-			if ($this->settings_lib->item('site.show_front_profiler')) {
-				if ( ! $this->input->is_cli_request()
-					&& ! $this->input->is_ajax_request()
-				   ) {
-					$this->load->library('Console');
-					$this->output->enable_profiler(true);
-				}
-			}
-
-			$this->load->driver('cache', array('adapter' => 'dummy'));
-		}
-
-		// Auto-migrate our core and/or app to latest version.
-		if ($this->config->item('migrate.auto_core') || $this->config->item('migrate.auto_app'))
-		{
-			$this->load->library('migrations/migrations');
-			$this->migrations->auto_latest();
-		}
-
 		// Make sure no assets in up as a requested page or a 404 page.
 		if ( ! preg_match('/\.(gif|jpg|jpeg|png|css|js|ico|shtml)$/i', $this->uri->uri_string()))
 		{
@@ -147,8 +93,6 @@ class Base_Controller extends CI_Controller
 			$this->requested_page = $this->session->userdata('requested_page');
 		}
 
-		// Pre-Controller Event
-		Events::trigger('after_controller_constructor', get_class($this));
 	}//end __construct()
 
 	//--------------------------------------------------------------------
@@ -162,28 +106,6 @@ class Base_Controller extends CI_Controller
 	 */
 	protected function set_current_user()
 	{
-		if (class_exists('Auth') && isset($this->auth))
-		{
-			// Load our current logged in user for convenience
-			if ($this->auth->is_logged_in())
-			{
-				$this->current_user = clone $this->auth->user();
-
-				$this->current_user->user_img = gravatar_link($this->current_user->email, 22, $this->current_user->email, "{$this->current_user->email} Profile");
-
-				// if the user has a language setting then use it
-				if (isset($this->current_user->language))
-				{
-					$this->config->set_item('language', $this->current_user->language);
-                    $this->session->set_userdata('language', $this->current_user->language);
-				}
-			}
-
-			// Make the current user available in the views
-            // When calling from Authenticated controller, this class
-		    $this->load->library('Template');
-			Template::set('current_user', $this->current_user);
-		}
 	}
 
 	//--------------------------------------------------------------------

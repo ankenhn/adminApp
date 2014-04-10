@@ -356,5 +356,10 @@ $config['rewrite_short_tags'] = FALSE;
 $config['proxy_ips'] = '';
 
 
+$config['modules_locations'] = array(
+    'modules/',
+    APPPATH .'modules/', 		// application/modules
+    BFPATH .'modules/'			// bonfire/modules
+);
 /* End of file config.php */
 /* Location: ./application/config/config.php */

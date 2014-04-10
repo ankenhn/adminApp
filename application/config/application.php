@@ -34,11 +34,6 @@ $config['site.default_user_timezone'] = 'UM8';
 // attempting to be located, whether it's loading a library, helper,
 // or routes file.
 //
-$config['modules_locations'] = array(
-    'modules/',
-	APPPATH .'modules/', 		// application/modules
-	BFPATH .'modules/'			// bonfire/modules
-);
 
 //--------------------------------------------------------------------
 // !BACKUPS
@@ -76,7 +71,7 @@ $config['contexts'] = array( 'content', 'reports', 'settings', 'developer' );
 	log_activity. If this is FALSE, you can remove the Activity module
 	without repurcussions.
  */
-$config['enable_activity_logging'] = TRUE;
+$config['enable_activity_logging'] = FALSE;
 
 //--------------------------------------------------------------------
 // SPARKS

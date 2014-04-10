@@ -1,16 +1,29 @@
-<?php
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+/**
+ * Author: Keith
+ * Email: duyanh980@gmail.com
+ * Date: 4/10/14
+ * Time: 4:46 PM
+ */
 
-Assets::add_js(array('bootstrap.min.js', 'jwerty.js'), 'external', true);
+echo theme_view('header'); ?>
 
-echo theme_view('header');
+<?php echo Template::content(); ?>
 
-?>
-<div class="body">
-	<div class="container-fluid">
-	    <?php
-            echo Template::message();
-            echo isset($content) ? $content : Template::content();
-        ?>
-	</div>
-</div>
+<?php echo Assets::js(array(
+    'js/jquery-1.9.1.js',
+    'js/jquery-migrate-1.2.1.min.js',
+    'js/jquery-ui.js',
+    'plugin/bootstrap/bootstrap.min.js',
+    'plugin/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js',
+    'js/html5shiv.js',
+    'js/respond.min.js',
+    'plugin/metisMenu/jquery.metisMenu.js',
+    'plugin/slimScroll/jquery.slimscroll.js',
+    'plugin/jquery-cookie/jquery.cookie.js',
+    'js/jquery.menu.js',
+    'plugin/jquery-pace/pace.min.js',
+    'js/main.js',
+    'js/holder.js'
+)); ?>
 <?php echo theme_view('footer'); ?>

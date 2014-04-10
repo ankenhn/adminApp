@@ -55,15 +55,6 @@ class Home extends CI_Controller
 	 */
 	public function index()
 	{
-		$this->load->library('installer_lib');
-
-		if (!$this->installer_lib->is_installed())
-		{
-			redirect( site_url('install') );
-		}
-
-		$this->load->library('users/auth');
-		$this->set_current_user();
 
 		Template::render();
 	}//end index()
